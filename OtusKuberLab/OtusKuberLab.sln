@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtusKuberLab", "OtusKuberLab.csproj", "{644185F2-AE97-4DF9-8CFF-429FBE9CF030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644185F2-AE97-4DF9-8CFF-429FBE9CF030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644185F2-AE97-4DF9-8CFF-429FBE9CF030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644185F2-AE97-4DF9-8CFF-429FBE9CF030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644185F2-AE97-4DF9-8CFF-429FBE9CF030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A063D8A3-E689-4602-8627-4335185FD85E}
+	EndGlobalSection
+EndGlobal
